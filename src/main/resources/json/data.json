@@ -1,0 +1,142 @@
+[
+	{
+		"startDate":"22 March 2022 10pm",
+		"homeTeam":"Mumbai",
+		"awayTeam":"Gujarat",
+		"homeTeamScore":"5",
+		"awayTeamScore":"7"
+	},
+	{
+		"startDate":"24 March 2022 10pm",
+		"homeTeam":"Gujarat",
+		"awayTeam":"Mumbai",
+		"homeTeamScore":"0",
+		"awayTeamScore":"0"
+	},
+	{
+		"startDate":"26 March 2022 10pm",
+		"homeTeam":"Mumbai",
+		"awayTeam":"Delhi",
+		"homeTeamScore":"1",
+		"awayTeamScore":"3"
+	},
+	{
+		"startDate":"28 March 2022 10pm",
+		"homeTeam":"Delhi",
+		"awayTeam":"Rajasthan",
+		"homeTeamScore":"5",
+		"awayTeamScore":"7"
+	},
+	{
+		"startDate":"30 March 2022 10pm",
+		"homeTeam":"Rajasthan",
+		"awayTeam":"Hyderabad",
+		"homeTeamScore":"1",
+		"awayTeamScore":"2"
+	},
+	{
+		"startDate":"22 April 2022 10pm",
+		"homeTeam":"Rajasthan",
+		"awayTeam":"Gujarat",
+		"homeTeamScore":"15",
+		"awayTeamScore":"7"
+	},
+	{
+		"startDate":"24 April 2022 10pm",
+		"homeTeam":"Gujarat",
+		"awayTeam":"Mumbai",
+		"homeTeamScore":"0",
+		"awayTeamScore":"5"
+	},
+	{
+		"startDate":"26 May 2022 10pm",
+		"homeTeam":"Lucknow",
+		"awayTeam":"Delhi",
+		"homeTeamScore":"1",
+		"awayTeamScore":"3"
+	},
+	{
+		"startDate":"28 Jun 2022 10pm",
+		"homeTeam":"Lucknow",
+		"awayTeam":"Rajasthan",
+		"homeTeamScore":"3",
+		"awayTeamScore":"1"
+	},
+	{
+		"startDate":"09 July 2022 5pm",
+		"homeTeam":"Rajasthan",
+		"awayTeam":"Lucknow",
+		"homeTeamScore":"5",
+		"awayTeamScore":"4"
+	},
+	{
+		"startDate":"09 July 2022 10pm",
+		"homeTeam":"Lucknow",
+		"awayTeam":"Gujarat",
+		"homeTeamScore":"",
+		"awayTeamScore":""
+	},
+	{
+		"startDate":"24 August 2022 10pm",
+		"homeTeam":"Kerala",
+		"awayTeam":"Mumbai",
+		"homeTeamScore":"",
+		"awayTeamScore":""
+	},
+	{
+		"startDate":"26 September 2022 10pm",
+		"homeTeam":"Kerala",
+		"awayTeam":"Delhi",
+		"homeTeamScore":"",
+		"awayTeamScore":""
+	},
+	{
+		"startDate":"28 September 2022 10pm",
+		"homeTeam":"UP",
+		"awayTeam":"Rajasthan",
+		"homeTeamScore":"",
+		"awayTeamScore":""
+	},
+	{
+		"startDate":"30 October 2022 10pm",
+		"homeTeam":"Bangalore",
+		"awayTeam":"Hyderabad",
+		"homeTeamScore":"",
+		"awayTeamScore":""
+	},
+	{
+		"startDate":"22 October 2022 10pm",
+		"homeTeam":"Punjab",
+		"awayTeam":"Gujarat",
+		"homeTeamScore":"",
+		"awayTeamScore":""
+	},
+	{
+		"startDate":"24 December 2022 10pm",
+		"homeTeam":"Gujarat",
+		"awayTeam":"Punjab",
+		"homeTeamScore":"",
+		"awayTeamScore":""
+	},
+	{
+		"startDate":"26 December 2022 10pm",
+		"homeTeam":"Bangalore",
+		"awayTeam":"Delhi",
+		"homeTeamScore":"",
+		"awayTeamScore":""
+	},
+	{
+		"startDate":"28 December 2022 10pm",
+		"homeTeam":"Gujarat",
+		"awayTeam":"Bangalore",
+		"homeTeamScore":"",
+		"awayTeamScore":""
+	},
+	{
+		"startDate":"30 December 2022 10pm",
+		"homeTeam":"Bangalore",
+		"awayTeam":"Kerala",
+		"homeTeamScore":"",
+		"awayTeamScore":""
+	}
+]
